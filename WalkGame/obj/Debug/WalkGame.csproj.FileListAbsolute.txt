@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\WalkGame\WalkGame\bin\Debug\WalkGame.exe.config
+C:\Users\user\source\repos\WalkGame\WalkGame\bin\Debug\WalkGame.exe
+C:\Users\user\source\repos\WalkGame\WalkGame\bin\Debug\WalkGame.pdb
+C:\Users\user\source\repos\WalkGame\WalkGame\obj\Debug\WalkGame.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WalkGame\WalkGame\obj\Debug\WalkGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WalkGame\WalkGame\obj\Debug\WalkGame.exe
+C:\Users\user\source\repos\WalkGame\WalkGame\obj\Debug\WalkGame.pdb
